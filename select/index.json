@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Figure It Out",
+  "base_artist": "Pavolia Reine",
+  "createdAt": "2026-03-09T11:39:31.071479Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Night To Figure It Out",
+      "artist": "Jade Eagleson",
+      "has_synced": true,
+      "path": "select/01_All_Night_To_Figure_It_Out_Jade_Eagleson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Figure It Out (feat. Gunna)",
+      "artist": "MadeinTYO feat. Gunna",
+      "has_synced": true,
+      "path": "select/02_Figure_It_Out_(feat._Gunna)_MadeinTYO_feat._Gunna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Figure It Out (ft. Gunna)",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/03_Figure_It_Out_(ft._Gunna)_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/04_Figure_It_Out_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "Serj Tankian",
+      "has_synced": true,
+      "path": "select/05_Figure_It_Out_Serj_Tankian.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "Orla Gartland",
+      "has_synced": false,
+      "path": "select/06_Figure_It_Out_Orla_Gartland.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Figure It Out (Bonus Track)",
+      "artist": "Theophilus London feat. Devonte Hynes & the Force MD's",
+      "has_synced": false,
+      "path": "select/07_Figure_It_Out_(Bonus_Track)_Theophilus_London_feat._Devonte_Hynes_&_the_Force_MD's.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Have to Figure It out Tonight",
+      "artist": "Beatsteaks",
+      "has_synced": true,
+      "path": "select/08_We_Have_to_Figure_It_out_Tonight_Beatsteaks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "Kula Shaker",
+      "has_synced": true,
+      "path": "select/09_Figure_It_Out_Kula_Shaker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "Royal Blood",
+      "has_synced": true,
+      "path": "select/10_Figure_It_Out_Royal_Blood.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "VersaEmerge",
+      "has_synced": true,
+      "path": "select/11_Figure_It_Out_VersaEmerge.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "A-Wall",
+      "has_synced": false,
+      "path": "select/12_Figure_It_Out_A-Wall.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Figure It Out",
+      "artist": "French Montana feat. Kanye West & Nas",
+      "has_synced": true,
+      "path": "select/13_Figure_It_Out_French_Montana_feat._Kanye_West_&_Nas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Figure It Out",
+      "artist": "Pavolia Reine",
+      "has_synced": false,
+      "path": "select/pl_01_Figure_It_Out_Pavolia_Reine.txt"
+    }
+  ]
+}
