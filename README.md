@@ -1,0 +1,89 @@
+# Pavolia Reine – Figure It Out
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hey! Hey! Hey!
+(Never never, never gonna figure it out!)
+Hey! Hey! Hey!
+Hey! Hey! Hey!
+(Never gonna figure it out!)
+Wake up, another bloody monday
+Say things I never wanted to say
+Up in arms
+Who can I please?
+You?
+Livin' day by day
+Wake up, another bloody monday
+Rinse＆Repeat until it's sunday
+Hold it, so frustrated
+Ya know I can't do it no more ～
+I'll say ～
+No good, down to the core
+Hear you knockin, beatin' down my door!
+Yell out, scream and shout
+But I'll never change it now
+I'm just too much but not enough to please you,
+right?
+[No I'm never, never gonna-]
+Your idea of ideals that you're screaming in my
+ear
+I'm just so broken ～
+never, never, never gonna figure it out!
+Hey! Hey!
+I'll stop me!
+Hey! Hey!
+I'll never figure it out～!
+Hey! Hey!
+Never never, never gonna figure it out
+You want me to know what I just don't know
+Mold me into her? into him? no
+Little did you know, I'm just me, let it go
+Lock me inside a pin of your perfection
+Correction
+Tearin' me down, am I what you like now?
+Don't tell me what, what to do, what to say,
+what to think
+About everything
+But did you ever think -
+I'll say ～
+Good with bein' so bad
+(So bad～)
+What's the issue? I'll screw up again!
+Yell out, scream and shout
+But I'll never change it now
+I'm just too much but not enough to please you,
+right?
+[No I'm never, never gonna-]
+Your idea of ideals that you're screaming in my
+ear
+I'm just so broken ～
+never, never, never gonna figure it out!
+Comfortable and pathetic
+I like it that way, get it?
+You're brutal, judgemental, it's never that
+simple, but I still want -
+To meet your harsh criteria
+Too bad I'm never gonna
+I'm never gonna fit ～
+[Fit～!]
+Oh no～
+1, 2, 3, GO!
+(Ahh ～!)
+Yell out, scream and shout
+But I'll never change it now
+I'm just too much but not enough to please you,
+right?
+(You, right～?)
+[No I'm never, never gonna-]
+Your idea of ideals that you're screaming in my
+ear
+I'm just so broken ～
+never, never, never gonna figure it out!
+Hey! Hey!
+I'll stop me!
+Hey! Hey!
+I'll never figure it out～!
+Hey! Hey!
+Never never, never gonna figure it out
+```
